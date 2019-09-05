@@ -1,6 +1,6 @@
-def bucket = 'deployment-packages-mlabouardy'
+def bucket = 'deployment-packages-lambda'
 def functionName = 'Fibonacci'
-def region = 'eu-west-3'
+def region = 'eu-west-1c'
 
 node(){
     stage('Checkout'){
