@@ -1,2 +1,2 @@
-# CI/CD for Lambda Functions with Jenkins
+# CI/CD for Lambda Functions with JenkinSS
 
