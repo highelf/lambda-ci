@@ -15,7 +15,7 @@ func fibonacci(n int) int {
 
 func handler(n int) (int, error) {
 	if n < 0 {
-		return -1, errors.New("Input must be a positive number")
+		return -1, errors.New("Input must be a positive numbers")
 	}
 	return fibonacci(n), nil
 }
