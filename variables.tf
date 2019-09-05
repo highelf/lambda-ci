@@ -3,5 +3,5 @@ variable "region" {
 }
 
 variable "bucket" {
-  default = "deployment-packages-lambda"
+  default = "deployment-packages-lambda-west"
 }
